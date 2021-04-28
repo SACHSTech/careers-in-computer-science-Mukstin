@@ -32,3 +32,11 @@ We have a great opening for a talented mobile game developer to work on dynamic 
 #### [Mobile AR Game Producer/PO](https://ca.indeed.com/jobs?q=Mobile%20AR%20Game%20Producer%2FPO&l=Richmond%20Hill%2C%20ON&vjk=d008beb8e60acc20)
 - We’re looking for an experienced Product Owner/Producer to drive the next great innovation in gaming and experiences.
 
+## Salaries and Experience 
+|          | Entry Level | Middle Level | Senior Level |
+|----------|-------------|--------------|--------------|
+| Salaries |  45K a year |      N/A     |     N/A      |
+|Experience|  2 years    |    3+ years  |   5+ years   |
+
+
+# Colleges and Universities  
