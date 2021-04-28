@@ -37,10 +37,10 @@ We have a great opening for a talented mobile game developer to work on dynamic 
 |----------|-------------|--------------|--------------|
 | Salaries |  45K a year |      N/A     |     N/A      |
 |Experience|  2 years    |    3+ years  |   5+ years   |
+|   City   | Concord, ON |  Toronto, ON |  Toronto, ON |
 
 
 # Colleges and Universities  
-# [Toronto Film School](https://www.torontofilmschool.ca) 
 
 ### [Game Design Design and Animation](https://www.torontofilmschool.ca/programs/video-game-design-animation/) 
 
@@ -68,3 +68,8 @@ We have a great opening for a talented mobile game developer to work on dynamic 
 
 ## Internships at any company jobs
 ### - Helps me gain the experience from professional game designers 
+
+# Work Cited 
+
+#### Indeed, ca.indeed.com/?sq=1. 
+#### “Video Game Design and Animation Diploma.” Toronto Film School, 26 Jan. 2021, www.torontofilmschool.ca/programs/video-game-design-animation/. 
