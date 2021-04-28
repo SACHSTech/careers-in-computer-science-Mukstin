@@ -54,11 +54,17 @@ We have a great opening for a talented mobile game developer to work on dynamic 
 ## __Length of the course__ 
 ####  18 months (6 terms)
 
-# Valuable Experiential Learning Opportunities
-## __Personal Time__
+# __Valuable Experiential Learning Opportunities__
+## Personal Time
 ### - Allows me to self-teach myself the process of creating games 
 ### - Get a better understanding of the process 
 ### - Gets me prepared for future jobs
 
-## __Junior Game Developer__
+## Junior Game Developer
 ### - Can help me learn more about the softwares being used. 
+
+## Any Community Social Events
+### - Increases my communication skills and gets me use to the social environment.
+
+## Internships at any company jobs
+### - Helps me gain the experience from professional game designers 
