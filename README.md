@@ -7,9 +7,17 @@ We have a great opening for a talented mobile game developer to work on dynamic 
 
 ---
 
-# Responsibilities 
-#### - Work closely with producers, designers and artists;
-#### - Participate in all phases of game development from concept to release;
-#### - Develop all aspects of the game (e.g. gameplay, graphics, AI, UI, etc).
-#### - No Require education
+# Duties/Responsibilities 
+ - Work closely with producers, designers and artists;
+ - Participate in all phases of game development from concept to release;
+ - Develop all aspects of the game (e.g. gameplay, graphics, AI, UI, etc).
+ - No Require education
+
+# Technical/Non-Technical Skils 
+- At least 2 years experience as a developer in the gaming industry;
+- Experience working with Unity 3D;
+- Ability to work well in a small team;
+- Excellent communication skills;
+- Passion for gaming and the games industry;
+- Bilingual (English and French).
 
