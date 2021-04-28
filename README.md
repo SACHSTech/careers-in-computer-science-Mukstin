@@ -22,15 +22,15 @@ We have a great opening for a talented mobile game developer to work on dynamic 
 # Level of Jobs 
 ## Entry Level Position 
 #### [Video Game Designer](https://ca.indeed.com/jobs?q=mobile%20game%20developer&l=Richmond%20Hill%2C%20ON&vjk=df94e54cb3ddb9df)
-- We are a passionate team aspiring to make compelling experiences, rich in story, emotion, immersion and meaningful game play.
+* We are a passionate team aspiring to make compelling experiences, rich in story, emotion, immersion and meaningful game play.
 
 ## Middle Level Position
 #### [Mobile Game Develeper](https://ca.indeed.com/jobs?q=mobile%20game%20developer&l=Richmond%20Hill%2C%20ON&vjk=d3b8b95992d94894)
-- Game Hive is seeking a Mobile Game Developer with strong proficiency in algorithm and game development.
+* Game Hive is seeking a Mobile Game Developer with strong proficiency in algorithm and game development.
 
 ## Senior Level Position
 #### [Mobile AR Game Producer/PO](https://ca.indeed.com/jobs?q=Mobile%20AR%20Game%20Producer%2FPO&l=Richmond%20Hill%2C%20ON&vjk=d008beb8e60acc20)
-- We’re looking for an experienced Product Owner/Producer to drive the next great innovation in gaming and experiences.
+* We’re looking for an experienced Product Owner/Producer to drive the next great innovation in gaming and experiences.
 
 ## Salaries and Experience 
 |          | Entry Level | Middle Level | Senior Level |
@@ -48,11 +48,17 @@ We have a great opening for a talented mobile game developer to work on dynamic 
 
 
 ## __Requirements__ 
-##### - When submitting your transcripts, please make sure that you have successfully completed a Grade 11 visual arts course (Courses in Grade 11 Computers/Digital Media are also recommended, but not required).
-##### - We want to hear your thoughts on the gaming industry! Submit a short essay (300–500 words) outlining your personal and career goals in video games. We’ll be looking for your overall understanding of the video game industry and how you envision yourself building a gaming career. We encourage you to include major Canadian video game production companies, various skill sets of a design and development team, your ideal entry-level position after graduating, and growth trends in industry careers. Please note, your short essay will not be returned.
+* When submitting your transcripts, please make sure that you have successfully completed a Grade 11 visual arts course (Courses in Grade 11 Computers/Digital Media are also recommended, but not required).
+* We want to hear your thoughts on the gaming industry! Submit a short essay (300–500 words) outlining your personal and career goals in video games. We’ll be looking for your overall understanding of the video game industry and how you envision yourself building a gaming career. We encourage you to include major Canadian video game production companies, various skill sets of a design and development team, your ideal entry-level position after graduating, and growth trends in industry careers. Please note, your short essay will not be returned.
 
 ## __Length of the course__ 
-#### - 18 months (6 terms)
-
+####  18 months (6 terms)
 
 # Valuable Experiential Learning Opportunities
+## __Personal Time__
+### - Allows me to self-teach myself the process of creating games 
+### - Get a better understanding of the process 
+### - Gets me prepared for future jobs
+
+## __Junior Game Developer__
+### - Can help me learn more about the softwares being used. 
