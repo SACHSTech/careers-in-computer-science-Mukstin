@@ -40,3 +40,19 @@ We have a great opening for a talented mobile game developer to work on dynamic 
 
 
 # Colleges and Universities  
+# [Toronto Film School](https://www.torontofilmschool.ca) 
+
+### [Game Design Design and Animation](https://www.torontofilmschool.ca/programs/video-game-design-animation/) 
+
+#### You will learn how to create artwork and animation, compose audio effect and music, and develop production and business plans. You will graduate with a robust portfolio showcasing your creative and business expertise
+
+
+## __Requirements__ 
+##### - When submitting your transcripts, please make sure that you have successfully completed a Grade 11 visual arts course (Courses in Grade 11 Computers/Digital Media are also recommended, but not required).
+##### - We want to hear your thoughts on the gaming industry! Submit a short essay (300–500 words) outlining your personal and career goals in video games. We’ll be looking for your overall understanding of the video game industry and how you envision yourself building a gaming career. We encourage you to include major Canadian video game production companies, various skill sets of a design and development team, your ideal entry-level position after graduating, and growth trends in industry careers. Please note, your short essay will not be returned.
+
+## __Length of the course__ 
+#### - 18 months (6 terms)
+
+
+# Valuable Experiential Learning Opportunities
